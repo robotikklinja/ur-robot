@@ -7,7 +7,7 @@ Roboten heter **UR5e**.
 
 Roboten kan brukes som en master og slave til automatiserings systemer. 
 
-For å lære om hvordan en bruker en ur-robot finner du [her](https://github.com/robotikklinja/ur-robot/blob/master/tutorial/01.md).
+Lurer du på hvordan en bruker en UR-Robot? Finner du informasjon om hvordan en bruker en ur-robot [her](https://github.com/robotikklinja/ur-robot/blob/master/tutorial/01.md).
 
 Data sheet for denne modellen finner du [her](https://github.com/robotikklinja/ur-robot/blob/master/ur5e-32528_ur_technical_details_.pdf). Data sheets for andre modeller finner du [her](https://www.universal-robots.com/download-center/#/).
 
