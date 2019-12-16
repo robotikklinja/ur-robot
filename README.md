@@ -5,7 +5,7 @@ UR-Robot er et prosjekt handler om å utvikle applikasjoner for en UR-Robotarm. 
 ## Sverre og Henrik
 Roboten heter **UR5e**.
 
-Roboten kan brukes som en master og slave til automatiserings systemer. 
+Roboten er koblet opp som en Master. Det betyr at modbusene sender informasjon til armen. Den kan også brukes som en slave til et annet system. 
 
 Lurer du på hvordan en bruker en UR-Robot? Finner du informasjon om hvordan en bruker en ur-robot [her](https://github.com/robotikklinja/ur-robot/blob/master/tutorial/01.md).
 
