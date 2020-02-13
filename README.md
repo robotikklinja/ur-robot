@@ -1,11 +1,14 @@
 # Universal Robots prosjekt
 "Bilde"
 ## Intro
-UR-Robot er et prosjekt handler om å utvikle applikasjoner for en UR-Robotarm. Roboten er en enkel robotarm og skal brukes til å lære om hvordan en bruker en robotarm.  
-## Sverre og Henrik
-Roboten heter **UR5e**.
+"UR-Robot" er et prosjekt som handler om å utvikle applikasjoner og arbeidsoppgaver for en UR-Robotarm. UR-Roboten er en enkel RRR manipulator med 6 degrees of freedom. Armen skal brukes til å lære opp elever til å ha kontroll over en robot. 
 
-Roboten er koblet opp som en Master. Det betyr at modbusene sender informasjon til armen. Den kan også brukes som en slave til et annet system.
+
+### Generelt om roboten
+
+- Roboten heter **UR5e**.
+- Roboten er koblet opp som en Master. Det betyr at modbusene sender informasjon til armen. Den kan også brukes som en slave til et annet system.
+- Roboten kontrolleres gjennom en teachpendant.  
 
 ### Bruk av UR-Robot
 Lurer du på hvordan en bruker en UR-Robot? Finner du informasjon om hvordan en bruker en ur-robot [her](https://github.com/robotikklinja/ur-robot/blob/master/tutorial/01.md).
