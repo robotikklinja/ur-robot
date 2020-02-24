@@ -10,7 +10,7 @@
 - Roboten er koblet opp som en Master. Det betyr at modbusene sender informasjon til armen. Den kan også brukes som en slave til et annet system.
 - Roboten kontrolleres gjennom en teachpendant.  
 
-### Bruk av UR-Robot
+### Lær UR-ROBOT, Kursmoduler
 Lurer du på hvordan en bruker en UR-Robot? Finner du informasjon om hvordan en bruker en ur-robot [her](https://github.com/robotikklinja/ur-robot/blob/master/tutorial/01.md).
 
 ### Datablader
@@ -24,6 +24,6 @@ Det vi har fått gjort er å lære om hvordan ta backup av UR-Roboten, vi har l�
 
 ### To do
 - [x] Ting å gjøre senere: Lage en hylle til boksene, finne en ny applikasjon for armen.
-- [ ] Utvikle applikasjoner 
-- [ ] Eventuellt Sikkerhetssensorer, sikre arbeidsområde
+- [ ] Utvikle flere applikasjoner 
+- [ ] Eventuellt Sikkerhetssensorer, for å sikre arbeidsområde
 - [ ] Sammkjøre UR-Robot med Veicelle
