@@ -22,6 +22,8 @@ For å ta backups av en UR-Robot må du innstallere [magic files](https://www.un
 ### Notater
 Det vi har fått gjort er å lære om hvordan ta backup av UR-Roboten, vi har lært om hvordan en skal programmere en UR-Robot. Vi har også fått lagd et program som får roboten til å plukke en boks opp fra transportbåndet som sorterer mellom 3D-printa plastikk bokser og metal bokser, deretter legger den boksen på sin presatte plass som per nå er på benken ved siden av armen. 
 
+For å sikre mennekser kan ekstra sikkerhetsesnoreer være ideelt. UR-Roboten kan ta signal fra de fleste sensorer. Og en avgrensning av området (innenfor gult bur) kan gis slik at hvis personell går inn vil roboten arbeide med redusert hastighet. Spørsmålet er om dette er nødvendig når roboten allerede har en egen stopp ved møtt motstand.
+
 ### To do
 - [x] Ting å gjøre senere: Lage en hylle til boksene, finne en ny applikasjon for armen.
 - [ ] Utvikle flere applikasjoner 
