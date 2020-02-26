@@ -1,6 +1,6 @@
 # Universal Robots prosjekt
-"Bilde"
-## Intro
+![UR-Robot](https://github.com/robotikklinja/ur-robot/blob/master/Bilder/UR-Robot.jpg)
+## Introduksjon
 "UR-Robot" er et prosjekt som handler om å utvikle applikasjoner og arbeidsoppgaver for en UR-Robotarm. UR-Roboten er en enkel RRR manipulator med 6 degrees of freedom. Armen skal brukes til å lære opp elever til å ha kontroll over en robot. 
 
 Målet for prosjektet er at alle elever skal lære seg å programmere og anvende en robot. I tilegg skal roboten implementeres i en evighetsmaskin sammen med Kuka roboten ved veicellen.
@@ -28,7 +28,7 @@ Data sheet for denne modellen finner du [her](https://github.com/robotikklinja/u
 ### Notater
 Det vi har fått gjort er å lære om hvordan ta backup av UR-Roboten, vi har lært om hvordan en skal programmere en UR-Robot. Vi har også fått lagd et program som får roboten til å plukke en boks opp fra transportbåndet som sorterer mellom 3D-printa plastikk bokser og metal bokser, deretter legger den boksen på sin presatte plass som per nå er på benken ved siden av armen. 
 
-For å sikre mennekser kan ekstra sikkerhetsesnoreer være ideelt. UR-Roboten kan ta signal fra de fleste sensorer. Og en avgrensning av området (innenfor gult bur) kan gis slik at hvis personell går inn vil roboten arbeide med redusert hastighet. Spørsmålet er om dette er nødvendig når roboten allerede har en egen stopp ved møtt motstand.
+For å sikre mennekser kan ekstra sikkerhetsensorer være ideelt. UR-Roboten kan ta signal fra de fleste sensorer. Og en avgrensning av området (innenfor gult bur) kan gis slik at hvis personell går inn vil roboten arbeide med redusert hastighet. Spørsmålet er om dette er nødvendig når roboten allerede har en egen stopp ved møtt motstand.
 
 ### To do
 - [x] Ting å gjøre senere: Lage en hylle til boksene, finne en ny applikasjon for armen.
