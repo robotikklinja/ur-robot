@@ -1,6 +1,6 @@
-F# Universal Robots prosjekt
+# Universal Robots prosjekt
 
-![UR-Robot](https://github.com/gedaa002/ur-robot/blob/master/Bilder/universal-robots-vector-logo.jpg)
+![UR-Robot](https://github.com/robotikklinja/ur-robot/blob/master/Bilder/universal-robots-vector-logo.jpg)
 
 ## Introduksjon
 
