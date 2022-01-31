@@ -1,9 +1,9 @@
-# Universal Robots prosjekt
+# UR5e prosjekt
 
-![UR-Robot](https://github.com/robotikklinja/ur-robot/blob/master/Bilder/UR-Robot.jpg)
+![UR-Robot]https://github.com/robotikklinja/ur-robot/tree/master/UR5e/Bilder/UR-Robot.jpg
 ## Introduksjon
 
-"UR-Robot" er et prosjekt som handler om å utvikle applikasjoner og arbeidsoppgaver for en UR-Robotarm. UR-Roboten er en enkel RRR manipulator med 6 degrees of freedom. Armen skal brukes til å lære opp elever til å ha kontroll over en robot. 
+"UR5e" er et prosjekt som handler om å utvikle applikasjoner og arbeidsoppgaver for en UR-Robotarm. UR5 er en enkel RRR manipulator med 6 degrees of freedom. Armen skal brukes til å lære opp elever til å ha kontroll over en robot. 
 
 Målet for prosjektet er at alle elever skal lære seg å programmere og anvende en robot. I tilegg skal roboten implementeres i en evighetsmaskin sammen med Kuka roboten ved veicellen.
 
@@ -12,20 +12,7 @@ Roboten sin foreløpige applikasjon er et sorteringssystem av klosser på et tra
 ### Generelt om roboten
 
 - Roboten heter **UR5e**.
-- Roboten er koblet opp som en Master. Det betyr at modbusene sender informasjon til armen. Den kan også brukes som en slave til et annet system.
-- Roboten kontrolleres gjennom en teachpendant.  
-- For spesifikk informasjon om UR-Roboten se Datablader under.
-
-### Lær UR-ROBOT, Kursmoduler
-
-Lurer du på hvordan en bruker en UR-Robot? Du finner informasjon om hvordan en bruker en ur-robot [her](https://github.com/robotikklinja/ur-robot/blob/master/tutorial/01.md).
-
-
-### Ta Backup
-Hver gang før en benytter seg av UR-Roboten skal det alltid tas en backup av armen ved oppstart.
-
-For å ta backups av en UR-Robot må du innstallere [magic files](https://www.universal-robots.com/download/?option=16449#section16447) og velge en av de tre backupene (Backup Programes, Backup Log Files eller Backup Configurations files) til en minnepinne. Dette er allerede gjort. USB for backup finner du i Kontroll boksen.
-Deretter følger du tutorialen under ![Utføre Backup](https://github.com/robotikklinja/ur-robot/blob/master/Bilder/Magic%20files.png) 
+- 
 
 ### Datablader
 
