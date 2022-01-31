@@ -12,7 +12,6 @@ Roboten sin foreløpige applikasjon er et sorteringssystem av klosser på et tra
 ### Generelt om roboten
 
 - Roboten heter **UR5e**.
-- 
 
 ### Datablader
 
