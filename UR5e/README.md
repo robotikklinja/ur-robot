@@ -5,15 +5,15 @@
 
 "UR5e" er et prosjekt som handler om å utvikle applikasjoner og arbeidsoppgaver for en UR-Robotarm. UR5 er en enkel RRR manipulator. Armen skal brukes til å lære opp elever til programmere og kontrollere en robot. 
 
-Målet for prosjektet er at alle elever skal lære seg å programmere og anvende en robot. I tilegg skal roboten implementeres i en evighetsmaskin sammen med Kuka roboten ved veicellen.
+Målet for prosjektet er at alle elever skal lære seg å programmere og anvende en robot. I tillegg skal roboten implementeres i en evighetsmaskin sammen med Kuka roboten ved veicellen.
 
 Roboten sin foreløpige applikasjon er et sorteringssystem av klosser på et transportbånd. Denne sorteringen gjennomføres ved at ulike sensorer (konduktive eller kapasative) sender et signal til armen som gjennomfører sorteringen.
 
 ### Generelt om roboten
 
-- Roboten heter **UR5e**.git add
+- Roboten heter **UR5e**
 
-### Datablader
+### Datablad
 
 Data sheet for denne modellen finner du [her](https://github.com/robotikklinja/ur-robot/blob/master/ur5e-32528_ur_technical_details_.pdf). Data sheets for andre modeller finner du [her](https://www.universal-robots.com/download-center/#/).
 
