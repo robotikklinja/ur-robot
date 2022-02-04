@@ -10,18 +10,18 @@ Dette kan enkelt lages ved å [klikke her](https://academy.universal-robots.com/
 ### Finne fram til tutorial-oversikten
 
 Etter du har logget deg inn trykker du på <strong><I>FREE E-LEARNING</I></strong>:
-![Instruks-1](https://github.com/Mikael-Kofoed/Picture_gitHub/blob/main/T1.jpg?raw=true)
+![Instruks-1](https://github.com/robotikklinja/ur-robot/tree/master/Bilder/T1.jpg?raw=true)
 
 <p>
   </br>
 </p>
 
 Deretter vil du få kunne se denne siden, her skal du da trykke på <I>e-Series e-Learning</I>:
-![Instruks-2](https://github.com/Mikael-Kofoed/Picture_gitHub/blob/main/T2.jpg?raw=true)
+![Instruks-2](https://github.com/robotikklinja/ur-robot/tree/master/Bilder/T2.jpg?raw=true)
 
 <p>
   </br>
 </p>
 
 Nå har vi nådd fram til tutorial-oversikten. Her vil det være lurt å starte på <strong><I>e-Series Core Track</I></strong>:
-![Instruks-3](https://github.com/Mikael-Kofoed/Picture_gitHub/blob/main/T3.jpg?raw=true)
+![Instruks-3](https://github.com/robotikklinja/ur-robot/tree/master/Bilder/T3.jpg?raw=true)
