@@ -1,6 +1,6 @@
 # UR3e
 
-![UR-Robot](https://github.com/robotikklinja/ur-robot/tree/master/UR3e/Bilder/UR_3_Robot_Bilde.jpg)
+![UR-Robot](https://github.com/robotikklinja/ur-robot/blob/master/UR3e/Bilder/UR_3_Robot_Bilde.jpg)
 
 ## Introduksjon
 
