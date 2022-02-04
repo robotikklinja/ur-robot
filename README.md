@@ -17,9 +17,9 @@ Roboten sin foreløpige applikasjon er et sorteringssystem av klosser på et tra
 - Robotene kontrolleres gjennom en teachpendant.  
 - For spesifikk informasjon om UR-Robotene se Datablader under.
 
-### UR5 finner du mer om [her](https://github.com/robotikklinja/ur-robot/UR5e) 
+### UR5 finner du mer om [her](https://github.com/robotikklinja/ur-robot/tree/master/UR5e) 
 
-### UR3 finner du mer om [her](https://github.com/robotikklinja/ur-robot/UR3e)
+### UR3 finner du mer om [her](https://github.com/robotikklinja/ur-robot/tree/master/UR3e)
 
 ### Lær UR-ROBOT, Kursmoduler
 

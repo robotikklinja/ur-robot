@@ -1,6 +1,6 @@
 # Universal Robots prosjekt
 
-![UR-Robot](https://github.com/robotikklinja/ur-robot/blob/master/Bilder/UR-Robot.jpg)
+![UR-Robot](https://github.com/robotikklinja/ur-robot/tree/master/UR5e/Bilder/UR-Robot.jpg)
 ## Introduksjon
 
 "UR-Robot" er et prosjekt som handler om å utvikle applikasjoner og arbeidsoppgaver for en UR-Robotarm. UR-Roboten er en enkel RRR manipulator med 6 degrees of freedom. Armen skal brukes til å lære opp elever til å ha kontroll over en robot. 
