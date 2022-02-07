@@ -1,6 +1,6 @@
 # UR5e prosjekt
 
-![UR-Robot](https://github.com/robotikklinja/ur-robot/tree/master/UR5e/Bilder/UR-Robot.jpg)
+![UR-Robot](https://github.com/robotikklinja/ur-robot/blob/master/UR5e/Bilder/UR-Robot.jpg)
 ## Introduksjon
 
 "UR5e" er et prosjekt som handler om å utvikle applikasjoner og arbeidsoppgaver for en UR-Robotarm. UR5 er en enkel RRR manipulator. Armen skal brukes til å lære opp elever til programmere og kontrollere en robot. 
