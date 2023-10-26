@@ -31,6 +31,13 @@ Roboten sin foreløpige applikasjon er et sorteringssystem av klosser på et tra
 
 Lurer du på hvordan en bruker en UR-Robot? Du finner informasjon om hvordan en bruker en av ur-robotene [her](https://github.com/robotikklinja/ur-robot/blob/master/tutorial/01.md).
 
+## Bordet 
+
+![UR5 bord](https://github.com/robotikklinja/ur-robot/assets/3476653/d5283d0e-4226-467a-b334-0b3627136c3c)
+
+[Fusion modell av bodet](https://a360.co/46JmKKY)
+
+
 
 ### Ta Backup
 Hver gang før en benytter seg av UR-Roboten skal det alltid tas en backup av armen ved oppstart.
