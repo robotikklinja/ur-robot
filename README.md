@@ -37,7 +37,8 @@ Lurer du på hvordan en bruker en UR-Robot? Du finner informasjon om hvordan en 
 
 [Fusion modell av bodet](https://a360.co/46JmKKY)
 
-
+![hullbilden](https://github.com/robotikklinja/ur-robot/assets/3476653/75d62ced-324f-4a8c-b06a-59e9ed94c8ce)
+[DXF fil av bare hullbilden, kan importeres til fusion](hullbilde_ur5.dxf)
 
 ### Ta Backup
 Hver gang før en benytter seg av UR-Roboten skal det alltid tas en backup av armen ved oppstart.
