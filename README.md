@@ -1,4 +1,4 @@
-# Universal Robots prosjket på Kuben videregående skole
+# Universal Robots prosjekt på Kuben videregående skole
 
 ![UR-Robot](https://github.com/robotikklinja/ur-robot/blob/master/Bilder/universal-robots-vector-logo.jpg)
 
