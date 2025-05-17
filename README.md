@@ -1,4 +1,4 @@
-# Universal Robots prosjekt
+# Universal Robots prosjket på Kuben videregående skole
 
 ![UR-Robot](https://github.com/robotikklinja/ur-robot/blob/master/Bilder/universal-robots-vector-logo.jpg)
 
@@ -6,7 +6,7 @@
 
 "UR-Robot" er et prosjekt som handler om å utvikle applikasjoner og arbeidsoppgaver for en UR-Robotarm. UR-Roboten er en enkel RRR manipulator med 6 degrees of freedom. Armen skal brukes til å lære opp elever til å ha kontroll over en robot. 
 
-Målet for prosjektet er at alle elever skal lære seg å programmere og anvende en robot. I tilegg skal roboten implementeres i en evighetsmaskin sammen med Kuka roboten ved veicellen.
+Målet for prosjektet er at alle elever skal lære seg å programmere og anvende en robot. I tilegg skal roboten implementeres i en evighetsmaskin.
 
 Roboten sin foreløpige applikasjon er et sorteringssystem av klosser på et transportbånd. Denne sorteringen gjennomføres ved at ulike sensorer (konduktive eller kapasative) sender et signal til armen som gjennomfører sorteringen.
 
@@ -68,4 +68,14 @@ Hver gang før en benytter seg av UR-Roboten skal det alltid tas en backup av ar
 For å ta backups av en UR-Robot må du innstallere [magic files](https://www.universal-robots.com/download/?option=16449#section16447) og velge en av de tre backupene (Backup Programes, Backup Log Files eller Backup Configurations files) til en minnepinne. Dette er allerede gjort. USB for backup finner du i kontroll boksen.
 Deretter følger du tutorialen under ![Utføre Backup](https://github.com/robotikklinja/ur-robot/blob/master/Bilder/Magic%20files.png) 
 
+## Kommunikasjon med roboterne over nettverk
 
+Alternativer:
+
+* Modubus server
+* [Primary /secondary and realtime way to send URScript commands , rom UR](https://docs.universal-robots.com/tutorials/urscript-tutorials/socket-communication.html)
+* Using Sockets to pass info to a regular program 
+  * SIMPLEST! ->[Python or C++ Sockets XML-RPC communication](https://www.universal-robots.com/articles/ur/interface-communication/xml-rpc-communication/)
+  * [URScript_socket_with python](https://gist.github.com/Shawn-Armstrong/001c14d8496f1362dace27bd6e1535e1)
+* [Facetracking demo Uses the UR - RTDE- protocol to send continuous updates to a Robot](https://github.com/robin-gdwl/UR_Facetracking?tab=readme-ov-file)
+  * [Real-Time Data Exchange (RTDE) Guide](https://www.universal-robots.com/articles/ur/interface-communication/real-time-data-exchange-rtde-guide/)  
